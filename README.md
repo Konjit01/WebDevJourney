@@ -39,7 +39,5 @@ This website aims to serve as a platform to showcase my portfolio, blog posts, a
 
 Contributions are welcome! If you'd like to contribute to this project, please feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
